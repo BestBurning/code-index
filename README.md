@@ -77,7 +77,7 @@ Here is the index of the code I have played
 ## Base
 
 - [design-pattern-go](https://github.com/BestBurning/design-pattern-go)
-- [Algorithm](https://github.com/BestBurning/Algorithm)
+- [Algorithm](https://github.com/BestBurning/algorithm-go)
 
 
 
